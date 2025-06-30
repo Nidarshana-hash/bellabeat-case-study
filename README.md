@@ -125,7 +125,7 @@ This case study is for educational purposes only. Dataset is publicly available 
 
 ##  Connect With Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/nidarshana23)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nidarshana23/)
 - 📧 Email: nidarravi.stu.tn@gmail.com
   
 
